@@ -1,0 +1,8 @@
+```text
+Flask
+gunicorn
+requests
+opencv-python
+mediapipe==0.10.21
+numpy<2
+```
